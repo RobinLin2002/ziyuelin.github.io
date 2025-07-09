@@ -36,42 +36,95 @@ I am very fortunate to be advised by [Prof. Qu](https://liangqiong.github.io/) f
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Submitted to CVPR 2016</div>
+      <div class="badge">CVPR 2016</div>
       <img src='images/FedVLMBench.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    [FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models](https://www.arxiv.org/pdf/2506.09638)<br>
-    Weiying Zheng, **Ziyue Lin**, Pengxin Guo, Yuyin Zhou, Feifei Wang, Liangqiong Qu
+    [FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models](https://www.arxiv.org/pdf/2506.09638)
+    
+    Weiying Zheng, <strong>Ziyue Lin</strong>, Pengxin Guo, Yuyin Zhou, Feifei Wang, Liangqiong Qu
+    
+    [<strong>Project</strong>](https://example.com) <strong><span class='show_paper_citations' data='example'></span></strong>
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum.
   </div>
 </div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Submitted to ICCV 2025</div>
+      <div class="badge">ICCV 2025</div>
       <img src='images/ARRA.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    [Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment](https://example.com)<br>
-    Xing Xie, Jiawei Liu, **Ziyue Lin**, Huijie Fan, Zhi Han, Yandong Tang, Liangqiong Qu
+    [Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment](https://example.com)
+    
+    Xing Xie, Jiawei Liu, <strong>Ziyue Lin</strong>, Huijie Fan, Zhi Han, Yandong Tang, Liangqiong Qu
+    
+    [<strong>Project</strong>](https://example.com) <strong><span class='show_paper_citations' data='example'></span></strong>
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum.
   </div>
 </div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Accepted by NAACL 2025</div>
+      <div class="badge">NAACL 2025</div>
       <img src='images/MLLM-Bench.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    [MLLM-Bench, Evaluating Multi-modal LLMs using GPT-4V](https://aclanthology.org/2025.naacl-long.256.pdf)<br>
+    [MLLM-Bench, Evaluating Multi-modal LLMs using GPT-4V](https://aclanthology.org/2025.naacl-long.256.pdf)
+    
     Wentao Ge∗, Shunian Chen∗, Guiming Hardy Chen*, Nuo Chen, Junying Chen, Zhihong Chen†, Wenya Xie, Shuo Yan, Chenghao Zhu, <strong>Ziyue Lin</strong>, Dingjie Song, Xidong Wang, Anningzhe Gao, Zhiyi Zhang, Jianquan Li, Xiang Wan, Benyou Wang†
+    
+    [<strong>Project</strong>](https://example.com) <strong><span class='show_paper_citations' data='example'></span></strong>
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum.
   </div>
 </div>
 
+<style>
+  .paper-box {
+    display: flex;
+    margin-bottom: 30px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  .paper-box-image {
+    flex: 0 0 30%;
+    position: relative;
+  }
+  .paper-box-text {
+    flex: 1;
+    padding: 15px;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  .paper-box-text a {
+    color: #0366d6;
+    text-decoration: none;
+  }
+  .paper-box-text a:hover {
+    text-decoration: underline;
+  }
+  .paper-box-text strong {
+    font-weight: 600;
+  }
+  .badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #ff6b6b;
+    color: white;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+</style>
 
 
 
