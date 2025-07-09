@@ -25,10 +25,11 @@ I am very fortunate to be advised by [Prof. Qu](https://liangqiong.github.io/) f
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2025.03*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2024.10*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- 
+- *2025.04*: &nbsp;🎉🎉 FedVLMBench was submitted to Neurips-2025.
+- *2025.04*: &nbsp;🎉🎉 Started working on diffusion and image restoration.
+- *2025.03*: &nbsp;🎉🎉 One paper was submitted to ICCV-2025.
+- *2024.10*: &nbsp;🎉🎉 MLLM-Bench was accepted by NAACL-2025!
+- *2024.09*: &nbsp;🎉🎉 Started learning at HKU.
 
 # 📝 Publications & Pre-prints
 
