@@ -32,25 +32,44 @@ I am very fortunate to be advised by [Prof. Qu](https://liangqiong.github.io/) f
 
 # 📝 Publications & Pre-prints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPR 2016</div><img src='images/FedVLMBench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models](https://www.arxiv.org/pdf/2506.09638)
-Weiying Zheng, **Ziyue Lin**, Pengxin Guo, Yuyin Zhou, Feifei Wang, Liangqiong Qu
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Submitted to CVPR 2016</div>
+      <img src='images/FedVLMBench.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models](https://www.arxiv.org/pdf/2506.09638)<br>
+    Weiying Zheng, <strong>Ziyue Lin</strong>, Pengxin Guo, Yuyin Zhou, Feifei Wang, Liangqiong Qu
+  </div>
+</div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Submitted to ICCV 2025</div>
+      <img src='images/ARRA.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [Your Paper Title Here](https://example.com)<br>
+    Weiying Zheng, <strong>Ziyue Lin</strong>, Pengxin Guo, Yuyin Zhou, Feifei Wang, Liangqiong Qu
+  </div>
+</div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPR 2016</div><img src='images/FedVLMBench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models](https://www.arxiv.org/pdf/2506.09638)
-Weiying Zheng, **Ziyue Lin**, Pengxin Guo, Yuyin Zhou, Feifei Wang, Liangqiong Qu
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by NAACL 2025</div><img src='images/FedVLMBench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[MLLM-Bench, Evaluating Multi-modal LLMs using GPT-4V](https://aclanthology.org/2025.naacl-long.256.pdf)
-Wentao Ge∗, Shunian Chen∗, Guiming Hardy Chen*, Nuo Chen, Junying Chen, Zhihong Chen†, Wenya Xie, Shuo Yan, Chenghao Zhu, **Ziyue Lin**, Dingjie Song,
-Xidong Wang, Anningzhe Gao, Zhiyi Zhang, Jianquan Li, Xiang Wan, Benyou Wang†
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Accepted by NAACL 2025</div>
+      <img src='images/MLLM-Bench.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [MLLM-Bench, Evaluating Multi-modal LLMs using GPT-4V](https://aclanthology.org/2025.naacl-long.256.pdf)<br>
+    Wentao Ge∗, Shunian Chen∗, Guiming Hardy Chen*, Nuo Chen, Junying Chen, Zhihong Chen†, Wenya Xie, Shuo Yan, Chenghao Zhu, <strong>Ziyue Lin</strong>, Dingjie Song, Xidong Wang, Anningzhe Gao, Zhiyi Zhang, Jianquan Li, Xiang Wan, Benyou Wang†
+  </div>
+</div>
 
 
 
