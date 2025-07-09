@@ -41,7 +41,7 @@ I am very fortunate to be advised by [Prof. Qu](https://liangqiong.github.io/) f
   </div>
   <div class='paper-box-text' markdown="1">
     [FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models](https://www.arxiv.org/pdf/2506.09638)<br>
-    Weiying Zheng, <strong>Ziyue Lin</strong>, Pengxin Guo, Yuyin Zhou, Feifei Wang, Liangqiong Qu
+    Weiying Zheng, **Ziyue Lin**, Pengxin Guo, Yuyin Zhou, Feifei Wang, Liangqiong Qu
   </div>
 </div>
 
@@ -53,8 +53,8 @@ I am very fortunate to be advised by [Prof. Qu](https://liangqiong.github.io/) f
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    [Your Paper Title Here](https://example.com)<br>
-    Weiying Zheng, <strong>Ziyue Lin</strong>, Pengxin Guo, Yuyin Zhou, Feifei Wang, Liangqiong Qu
+    [Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment](https://example.com)<br>
+    Xing Xie, Jiawei Liu, **Ziyue Lin**, Huijie Fan, Zhi Han, Yandong Tang, Liangqiong Qu
   </div>
 </div>
 
