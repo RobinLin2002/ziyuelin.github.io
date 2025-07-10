@@ -52,7 +52,7 @@ Weiying Zheng, **Ziyue Lin**, Pengxin Guo, Yuyin Zhou, Feifei Wang, Liangqiong Q
 <div class='paper-box-text' markdown="1">
 
 
-[Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment](https://example.com)
+[Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment]([https://example.com](https://arxiv.org/pdf/2503.07334))
 
 Xing Xie, Jiawei Liu, **Ziyue Lin**, Huijie Fan, Zhi Han, Yandong Tang, Liangqiong Qu
 
