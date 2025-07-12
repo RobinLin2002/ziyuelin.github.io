@@ -33,8 +33,6 @@ I am very fortunate to be advised by [Prof. Qu](https://liangqiong.github.io/) f
 
 # 📝 Publications & Pre-prints
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to Neurips 2025</div><img src='images/FedVLMBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -82,17 +80,8 @@ Wentao Ge∗, Shunian Chen∗, Guiming Hardy Chen*, Nuo Chen, Junying Chen, Zhih
 
 
 
-
-
-
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - 2025.07* (now)*, pursuing master in The University of Hong Kong, major in Artificial Intelligence 
+- *2020.09 - 2024.06*, achieved Bachelor of Science in The Chinese University of Hong Kong, Shenzhen, major in Data Science and big data technology
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
