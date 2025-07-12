@@ -79,9 +79,9 @@ Wentao Ge∗, Shunian Chen∗, Guiming Hardy Chen*, Nuo Chen, Junying Chen, Zhih
 
 
 
-
 # 📖 Educations
 - *2024.09 - 2025.07* (now)*, pursuing master in The University of Hong Kong, major in Artificial Intelligence 
 - *2020.09 - 2024.06*, achieved Bachelor of Science in The Chinese University of Hong Kong, Shenzhen, major in Data Science and big data technology
 
-
+# 💬 CV
+This is my personal CV.
