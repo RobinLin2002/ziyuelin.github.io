@@ -19,7 +19,7 @@ redirect_from:
 
 I received my B.S. from The Chinese University of Hong Kong, Shenzhen. I am currently pursuing a master's degree in the Department of Mathematics at The University of Hong Kong, with a major in Artificial Intelligence. **I am currently seeking PhD positions for 2026 Fall.**
 
-My research interests include computer vision, image restoration, and interpretability in AI.
+My research interests include computer vision, image restoration, and interpretability in AI. This is my personal CV: 
 
 I am very fortunate to be advised by [Prof. Qu](https://liangqiong.github.io/) from [School of Computing and Data Science](https://www.cds.hku.hk/), The University of Hong Kong.
 
@@ -83,5 +83,3 @@ Wentao Ge∗, Shunian Chen∗, Guiming Hardy Chen*, Nuo Chen, Junying Chen, Zhih
 - *2024.09 - 2025.07* (now)*, pursuing master in The University of Hong Kong, major in Artificial Intelligence 
 - *2020.09 - 2024.06*, achieved Bachelor of Science in The Chinese University of Hong Kong, Shenzhen, major in Data Science and big data technology
 
-# 💬 CV
-This is my personal CV.
