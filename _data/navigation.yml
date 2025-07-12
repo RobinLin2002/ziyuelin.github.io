@@ -3,20 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "CV"
+  - title: "News"
     url: "/#-news"
 
-  # - title: "Publications"
-  #   url: "/#-publications"
+  - title: "Publications & Preprints"
+    url: "/#-publications"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
-  # - title: "Educations"
-  #   url: "/#-educations"
+  - title: "Educations"
+    url: "/#-educations"
 
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
+  - title: "CV"
+    url: "/#-CV"
 
   # - title: "Internships"
   #   url: "/#-internships"
