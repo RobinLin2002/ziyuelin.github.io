@@ -19,13 +19,13 @@ redirect_from:
 
 I received my B.S. from The Chinese University of Hong Kong, Shenzhen. I am currently pursuing a master's degree in the Department of Mathematics at The University of Hong Kong, with a major in Artificial Intelligence. **I am currently seeking PhD positions for 2026 Fall.**
 
-My research interests include computer vision, image restoration, and interpretability in AI. This is my personal CV: [Ziyue Lin's Curriculum Vitae](../assets/林子越_个人中英文简历.pdf)
+My research interests include computer vision, image restoration, and data-centric AI. This is my personal CV: [Ziyue Lin's Curriculum Vitae](../assets/林子越_个人中英文简历.pdf)
 
 I am very fortunate to be advised by [Prof. Qu Liangqiong](https://liangqiong.github.io/) from [School of Computing and Data Science](https://www.cds.hku.hk/), The University of Hong Kong. I am also currently collaborating with the EPIC Lab at Shanghai Jiao Tong University on research projects, and I am grateful for the guidance from Researcher [Shaobo Wang](https://gszfwsb.github.io/) and Professor Linfeng Zhang.
 
 我本科毕业于香港中文大学（深圳），目前在香港大学数学系攻读人工智能方向的硕士学位，并计划申请2026年秋季入学的博士项目。
 
-我的研究兴趣包括计算机视觉、图像修复以及人工智能可解释性领域。这是我的个人简历：[简历](../assets/林子越_个人中英文简历.pdf)
+我的研究兴趣包括计算机视觉、图像修复以及数据驱动的人工智能。这是我的个人简历：[简历](../assets/林子越_个人中英文简历.pdf)
 
 我非常荣幸能获得香港大学计算与数据科学学院屈靓琼教授的指导，我目前还与上海交通大学EPIC实验室合作开展科研项目，感谢王少博学长和张林峰教授的指导。
 # 🔥 News
